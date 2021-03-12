@@ -1,0 +1,7 @@
+C:\Users\Bublikc\source\repos\TestTaskDataWorks\TestTaskDataWorks\bin\Debug\TestTaskDataWorks.exe.config
+C:\Users\Bublikc\source\repos\TestTaskDataWorks\TestTaskDataWorks\bin\Debug\TestTaskDataWorks.exe
+C:\Users\Bublikc\source\repos\TestTaskDataWorks\TestTaskDataWorks\bin\Debug\TestTaskDataWorks.pdb
+C:\Users\Bublikc\source\repos\TestTaskDataWorks\TestTaskDataWorks\obj\Debug\TestTaskDataWorks.csprojAssemblyReference.cache
+C:\Users\Bublikc\source\repos\TestTaskDataWorks\TestTaskDataWorks\obj\Debug\TestTaskDataWorks.csproj.CoreCompileInputs.cache
+C:\Users\Bublikc\source\repos\TestTaskDataWorks\TestTaskDataWorks\obj\Debug\TestTaskDataWorks.exe
+C:\Users\Bublikc\source\repos\TestTaskDataWorks\TestTaskDataWorks\obj\Debug\TestTaskDataWorks.pdb
