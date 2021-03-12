@@ -9,14 +9,14 @@ using System.Threading.Tasks;
 namespace TestTaskDataWorks.Tests
 {
     [TestClass()]
-    public class RomanNumbersTests
+    public class UnitTests
     {
         [TestMethod()]
         public void ToIntTest()
         {
             var data = new Dictionary<string, int> {
                 { "MMIX", 2009 },
-                {"XX",20 },
+                { "XX",20 },
                 {"XXCI", 101},
                 { "MCMLXXXVI",1986},
                 { "MCMXCV",1995},
